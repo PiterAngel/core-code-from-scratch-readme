@@ -2,30 +2,30 @@
 Practice Session 
 ========= Preparación de una Pizza ==========
 INICIO
-1.Verificar si hay ingredientes (Masa, tomates, peperoni, queso para pizza, sal y pimienta) 
-2.Si en dado caso NO hay ingredientes o falta un ingrediente ir al supermercado a comprar 
-3.Si en dado casi SI hay todos los ingredientes colocar la masa en un recipiento plano y empezar a moldear la masa para que quede suave
-4.Lavar los tomates con agua y poco de jabón, colocarlos en una licuadora y licuar perfectamente los tomates
-5.Dejar cociendo el tomate con un poco de agua en la estufa colocando un poco de ingredientes que gustes como sal y pimienta 
-6.Ya de dajar cociendo la salsa de tomate un par de minutos colocarlo en la masa de la pizza ya moldeada 
-7.Colocar el queso luego de la salsa
-8.Colocar el peperoni 
-9.Ya luego de colocar todos los ingredientes necesarios dejar la pizza en el horno unos 20 minutos
+1. Verificar si hay ingredientes (Masa, tomates, peperoni, queso para pizza, sal y pimienta) 
+2. Si en dado caso NO hay ingredientes o falta un ingrediente ir al supermercado a comprar 
+3. Si en dado casi SI hay todos los ingredientes colocar la masa en un recipiento plano y empezar a moldear la masa para que quede suave
+4. Lavar los tomates con agua y poco de jabón, colocarlos en una licuadora y licuar perfectamente los tomates
+5. Dejar cociendo el tomate con un poco de agua en la estufa colocando un poco de ingredientes que gustes como sal y pimienta 
+6. Ya de dajar cociendo la salsa de tomate un par de minutos colocarlo en la masa de la pizza ya moldeada 
+7. Colocar el queso luego de la salsa
+8. Colocar el peperoni 
+9. Ya luego de colocar todos los ingredientes necesarios dejar la pizza en el horno unos 20 minutos
 10. Sacar la pizza del horno
-11.Cortar los pedazos de forma exacta 
+11. Cortar los pedazos de forma exacta 
 FIN
 
 
 
 ========= Hot N Cold ==========
 INICIO
-1.Solicitar un número al cliente y guardarla en una variable (número) 
-2.Veriicar si el número es válido por si no lo es indicarle que ingrese un número válido
-3.Preguntar si desea de grados celsius a Fahrenheit
-4.Si la respuesta es "SI" tomar la variable (número) y multiplicarla por 1.8 luego sumar 32 y así obtener la conversión
-5.Mostrarla al usuario
-6.Si la respuesta es "NO" (Fahrenheit a Celsius) tomar la variable (número)  dividirlo entre 1.8 y luego restar 32 y así obtener la conversión
-7.Mostrarla al usuario
+1. Solicitar un número al cliente y guardarla en una variable (número) 
+2. Veriicar si el número es válido por si no lo es indicarle que ingrese un número válido
+3. Preguntar si desea de grados celsius a Fahrenheit
+4. Si la respuesta es "SI" tomar la variable (número) y multiplicarla por 1.8 luego sumar 32 y así obtener la conversión
+5. Mostrarla al usuario
+6. Si la respuesta es "NO" (Fahrenheit a Celsius) tomar la variable (número)  dividirlo entre 1.8 y luego restar 32 y así obtener la conversión
+7. Mostrarla al usuario
 FIN
 
 
