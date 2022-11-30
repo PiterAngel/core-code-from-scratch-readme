@@ -98,3 +98,11 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 7. disfrutar
 8. FIN
 9. ![WhatsApp Image 2022-11-28 at 8 59 25 PM](https://user-images.githubusercontent.com/78941196/204428012-e85aa010-b5dd-4c61-a69a-fe8956020750.jpeg)
+
+#Week challenges (Tuesday) 💻#
+#Print my name#
+1. ![my_Name](https://user-images.githubusercontent.com/78941196/204877648-a34d1974-b90f-4e23-ab34-83fb4458a121.jpeg)
+
+#Print my name & age#
+1. ![age](https://user-images.githubusercontent.com/78941196/204878151-df5514ac-c87f-4155-aa7a-8d5a34a4cd56.jpeg)
+
