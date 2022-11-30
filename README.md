@@ -67,14 +67,14 @@ Escriba un pseudocódigo para un algoritmo que calcule la edad de una persona se
 7. FIN
 
 
-# ====== Find the treasure 👑 ====== #
+# ====== Find the treasure 👑 ====== 
 1. Si verificacimos el primer cofre de la izquierda observamos es mentira ya que el cofre de enmedio no puede tener tesoro.
 2. Si ahora analizamos el segundo cofre de enmedio es mentira ya que no todos los cofres tendrán tesoros.
 3. Ahora con el ultimo cofre es de igual forma mentira ya que no puede llevar solo 1 cofre contener tesoro.
 4. Por lo tanto si lo analizamos a profundidad puede ser que ninguno tenga premio o que solo 2 cofres esten premiados y puede ser C o A.
 
-# Pseudocode - Week 2  #
-# Week challenges (Monday) 💻 28/11/2022 #
+# Pseudocode - Week 2  
+# Week challenges (Monday) 💻 28/11/2022 
 # Logic problem #
 El profesor pregunta a sus 5 alumnos si estudiaron matemáticas ayer.
 
@@ -88,7 +88,7 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 
 1. R// Si analizamos cada premisa de cada estudiante si verificamos la información de BOB puede que el sea el estudiante que si estudió por lo cual el estaría diciendo la verdad.
 
-# ====== Which comes first, cereal or milk? ====== #
+# ====== Which comes first, cereal or milk? ====== 
 1. INICIO
 2. Verificar si hay cereal y leche
 3. Si en dado caso no hay ir a comprar si falta uno de los ingredientes
@@ -99,10 +99,16 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 8. FIN
 9. ![WhatsApp Image 2022-11-28 at 8 59 25 PM](https://user-images.githubusercontent.com/78941196/204428012-e85aa010-b5dd-4c61-a69a-fe8956020750.jpeg)
 
-#Week challenges (Tuesday) 💻#
-#Print my name#
+# Week challenges (Tuesday) 💻
+# Print my name#
 1. ![my_Name](https://user-images.githubusercontent.com/78941196/204877648-a34d1974-b90f-4e23-ab34-83fb4458a121.jpeg)
 
-#Print my name & age#
+# Print my name & age
 1. ![age](https://user-images.githubusercontent.com/78941196/204878151-df5514ac-c87f-4155-aa7a-8d5a34a4cd56.jpeg)
+
+# Week challenges (Wednesday) 💻
+# Algorithm game
+1. ![Game](https://user-images.githubusercontent.com/78941196/204931503-668a5577-0e08-4606-96e3-b47743e0f262.jpeg)
+
+
 
