@@ -110,5 +110,12 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 # Algorithm game
 1. ![Game](https://user-images.githubusercontent.com/78941196/204931503-668a5577-0e08-4606-96e3-b47743e0f262.jpeg)
 
+# MOD
+1. ![1](https://user-images.githubusercontent.com/78941196/204934097-cc69d6b2-7e12-4db0-9582-ca1a6fcd1222.jpeg)
+2. ![0](https://user-images.githubusercontent.com/78941196/204934110-02b94546-ff12-4ee5-b898-14ca50bc25c3.jpeg)
+
+# Register form
+1. ![form](https://user-images.githubusercontent.com/78941196/204936036-4bdc4e9c-005d-41e3-ac50-64fdaac36702.jpeg)
+
 
 
