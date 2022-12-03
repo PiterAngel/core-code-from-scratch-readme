@@ -118,4 +118,19 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 1. ![form](https://user-images.githubusercontent.com/78941196/204936036-4bdc4e9c-005d-41e3-ac50-64fdaac36702.jpeg)
 
 
-
+# Week challenges (Thursday) 💻
+# Truth tables o❌ ✅
+1. T &T = T ✅
+2. V &F = F ✅
+3. F &T = T ❌
+4. F &F = F ✅
+5. T |T = T ✅
+6. V |F = F ❌
+7. F |T = T ✅
+8. F |F = F ✅
+9. ~T = T ❌
+10. ~F = T ✅
+11. (V &F) |( ~F) = V  ==> F | V = V ✅
+12. (V |F ) &(F |F) = T  ==> V & F = T ❌
+13. ~((V |F ) &(F |F)) &F = T 
+14. ~((V |F ) &(F |F)) &T = F
