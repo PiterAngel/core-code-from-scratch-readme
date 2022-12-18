@@ -145,3 +145,12 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 1. ![codigo](https://user-images.githubusercontent.com/78941196/205815204-f75f720e-186b-47a7-b702-85582d5e75f5.jpeg)
 
 2. ![resultadoxd](https://user-images.githubusercontent.com/78941196/205815235-46f5ebba-66ba-44b2-9c90-ec76abf3c3cc.jpeg)
+
+
+# Week challenges (Tuesday) 💻 6/12/2022
+# Simple calculator
+1. ![segun_codigo](https://user-images.githubusercontent.com/78941196/208279906-c2bf71d5-0f6d-4e13-bcb9-27742316bfe5.jpeg)
+2. ![segun_resultado](https://user-images.githubusercontent.com/78941196/208279909-f25df0e4-3baa-4f3f-aa01-c41234acfd01.jpeg)
+
+# Multi Option Program
+
