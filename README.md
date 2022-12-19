@@ -211,4 +211,5 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 1. ![iva](https://user-images.githubusercontent.com/78941196/208354043-17723cd3-5703-4612-a5b5-921723304ac4.jpeg)
 
 # Reverse direction and size
-1. 
+
+2.
