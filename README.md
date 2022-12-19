@@ -154,3 +154,61 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 
 # Multi Option Program
 
+
+# Week challenges (Monday) 💻 12/12/2022
+# Average sales and commission 
+1. ![codigoventas](https://user-images.githubusercontent.com/78941196/208341436-c81e3a8b-f41c-4cf2-b31c-ed60854e6035.jpeg)
+2. ![resultadoventas](https://user-images.githubusercontent.com/78941196/208341450-373bc03e-8e91-48c0-b6cc-10184a1d98fc.jpeg)
+
+# Even or odd
+1. ![parcodigo](https://user-images.githubusercontent.com/78941196/208342126-90b2fe79-740c-452e-80dd-f872c8f33b79.jpeg)
+2. ![parresultado](https://user-images.githubusercontent.com/78941196/208342134-aa13c94c-3af6-410d-bf58-b64759f76c45.jpeg)
+
+# Week challenges (Tuesday) 💻 13/12/2022
+# Predefined functions
+# abs
+1. ![codigoabsxd](https://user-images.githubusercontent.com/78941196/208342740-77be9301-5dbd-4668-82bb-a9d84552b9e5.jpeg)
+
+# trunc
+1. ![trunc](https://user-images.githubusercontent.com/78941196/208343173-f7f2dafd-6f63-4c2d-9a44-f9418e72a4f7.jpeg)
+
+# redon
+1. ![redon](https://user-images.githubusercontent.com/78941196/208343356-18faf294-8401-4594-a2e0-ce59e061e5e4.jpeg)
+
+# azar
+1. ![azar](https://user-images.githubusercontent.com/78941196/208343835-c1f48288-0e51-4b60-8671-31da0016cfe2.jpeg)
+
+# longitud
+1. ![lontgitud](https://user-images.githubusercontent.com/78941196/208344099-fd68a1d1-5c6a-4992-bee5-afe64691c025.jpeg)
+
+# uppercase
+1. ![mayus](https://user-images.githubusercontent.com/78941196/208344371-f8d6258d-9887-4b11-896b-01b215f176c0.jpeg)
+
+# lowercase
+1. ![minus](https://user-images.githubusercontent.com/78941196/208344495-bcb0e626-a851-45e9-9cd4-35702d672a79.jpeg)
+
+# subCadena
+1. ![subcadena](https://user-images.githubusercontent.com/78941196/208344743-f1c31e11-8454-4dab-8938-acdf9a9e8549.jpeg)
+
+# Full name
+
+
+# Throw dice
+1. ![thow](https://user-images.githubusercontent.com/78941196/208349588-93a5f88a-17e0-482e-846c-8fc76db3f47b.jpeg)
+
+# Week challenges (Wednesday) 💻 14/12/2022
+# Distance to zero
+1. ![zero](https://user-images.githubusercontent.com/78941196/208350342-97512394-a131-4656-9ab7-e6b3b79d0349.jpeg)
+
+# Toss coin
+1. ![Jugadores](https://user-images.githubusercontent.com/78941196/208351576-0a4d25f8-beeb-44a6-b7f7-207ec1692276.jpeg)
+
+# Week challenges (Thursday) 💻 15/12/2022
+# Structure of a function
+1. ![mr](https://user-images.githubusercontent.com/78941196/208352232-7e26c01b-3afa-4728-82b6-d2cc1119f9dd.jpeg)
+
+# Total price
+1. ![iva](https://user-images.githubusercontent.com/78941196/208354043-17723cd3-5703-4612-a5b5-921723304ac4.jpeg)
+
+# Reverse direction and size
+1. 
