@@ -213,3 +213,12 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 # Reverse direction and size
 
 2.
+
+# Week 5
+# Week challenges (Monday) 💻 19/12/2022
+# Time Converter
+1. ![convert](https://user-images.githubusercontent.com/78941196/208605490-a9c3ad67-cef5-4b19-b076-9f2670ca15a2.jpeg)
+
+# Compare distances
+1. ![TRUE](https://user-images.githubusercontent.com/78941196/208608781-9a7af1aa-6884-4c8c-8767-680c19096cfa.jpeg)
+
