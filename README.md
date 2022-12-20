@@ -191,7 +191,7 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 1. ![subcadena](https://user-images.githubusercontent.com/78941196/208344743-f1c31e11-8454-4dab-8938-acdf9a9e8549.jpeg)
 
 # Full name
-
+1. ![FullName](https://user-images.githubusercontent.com/78941196/208788806-fe8bf2e6-f77a-4c9f-9215-2f4d75fb6e11.jpeg)
 
 # Throw dice
 1. ![thow](https://user-images.githubusercontent.com/78941196/208349588-93a5f88a-17e0-482e-846c-8fc76db3f47b.jpeg)
@@ -211,8 +211,7 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 1. ![iva](https://user-images.githubusercontent.com/78941196/208354043-17723cd3-5703-4612-a5b5-921723304ac4.jpeg)
 
 # Reverse direction and size
-
-2.
+1. ![REVERSA](https://user-images.githubusercontent.com/78941196/208788144-134d4122-84ae-4523-808a-2ffe2af0cc2f.jpeg)
 
 # Week 5
 # Week challenges (Monday) 💻 19/12/2022
