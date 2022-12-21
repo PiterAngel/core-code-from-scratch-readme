@@ -225,6 +225,8 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 1. End of month - Work on your README
 
 # Sum of pairs
-1. ![NUMERO](https://user-images.githubusercontent.com/78941196/208825588-4fc939db-b35c-4497-947f-3f821c32e121.jpeg)
+1. ![NUM](https://user-images.githubusercontent.com/78941196/208826460-e188d43f-3a42-40ec-a56a-5ed77cfe2a06.jpeg)
 
+# Mid point
+1. ![Mid](https://user-images.githubusercontent.com/78941196/208827658-adcddf9d-bb78-49b5-b5df-e4310190b52d.jpeg)
 
