@@ -221,3 +221,10 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 # Compare distances
 1. ![TRUE](https://user-images.githubusercontent.com/78941196/208608781-9a7af1aa-6884-4c8c-8767-680c19096cfa.jpeg)
 
+# Week challenges (Tuesday) 💻 20/12/2022
+1. End of month - Work on your README
+
+# Sum of pairs
+1. ![NUMERO](https://user-images.githubusercontent.com/78941196/208825588-4fc939db-b35c-4497-947f-3f821c32e121.jpeg)
+
+
