@@ -230,3 +230,14 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 # Mid point
 1. ![Mid](https://user-images.githubusercontent.com/78941196/208827658-adcddf9d-bb78-49b5-b5df-e4310190b52d.jpeg)
 
+# Week challenges (Thursday) 💻
+# 'IF' statement in JavaScript
+1. ![IF](https://user-images.githubusercontent.com/78941196/210294372-1f27a227-beef-49bf-8291-dd128a94dae7.jpeg)
+
+# 'WHILE' loop in JavaScript
+1. ![while](https://user-images.githubusercontent.com/78941196/210295305-f457412c-cb62-4bc5-840f-97370c4dce0b.jpeg)
+
+# 'FOR' loop in JavaScript
+1. ![for](https://user-images.githubusercontent.com/78941196/210296842-2a9b73b4-5b92-4a77-b04f-65039106b70e.jpeg)
+
+
