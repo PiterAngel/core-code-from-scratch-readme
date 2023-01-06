@@ -230,6 +230,14 @@ El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los q
 # Mid point
 1. ![Mid](https://user-images.githubusercontent.com/78941196/208827658-adcddf9d-bb78-49b5-b5df-e4310190b52d.jpeg)
 
+# Week challenges (Wednesday) 💻
+# Cashier
+1. ![CASH](https://user-images.githubusercontent.com/78941196/210924843-bc233ddb-ed78-40f3-a7e9-5ee65b2d8bf5.jpeg)
+
+# Weather average
+1. ![Temperatura](https://user-images.githubusercontent.com/78941196/210929334-e670c074-cdee-4e1b-9006-49d2ba58d03a.jpeg)
+
+
 # Week challenges (Thursday) 💻
 # 'IF' statement in JavaScript
 1. ![IF](https://user-images.githubusercontent.com/78941196/210294372-1f27a227-beef-49bf-8291-dd128a94dae7.jpeg)
