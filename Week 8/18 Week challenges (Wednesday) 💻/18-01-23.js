@@ -19,4 +19,33 @@ function likes(names) {
 console.log(likes(["peter", "angel", "esau", "de", "león"]))
 
 
-//
+//  ====== Bit counting ======
+var countBits = function(n) {
+    let binario = n.toString(2);
+    let contador = 0;
+    for (let i = 0; i < binario.length; i++) {
+        if (binario[i] === "1") contador++;
+    }
+    return contador;
+};
+console.log(countBits(10))
+
+var countBits = function(n) {
+    return n.toString(2).replace(/0/g, '').length;
+};
+console.log(countBits(10))
+
+// ====== Your order, please ======
+function order(words) {
+    let array = words.split(' ');
+    let sortedArray = [];
+    for (i = 0; i <= array.length; i++) {
+        for (j = 0; j < array.length; j++) {
+            if (array[j].indexOf(i) >= 0) {
+                sortedArray.push(array[j]);
+            }
+        }
+    }
+    return sortedArray.join(' ');
+}
+console.log(order("2is this1"))
